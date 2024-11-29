@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+    color: white;
+    margin: 50px;
+}
+table{
+    border-collapse: collapse;
+    border-color: #96D4D4;
+    width: 100%;
+    height: 30vh;
+}
+
+img{
+    width: 10%;
+    height: 20vh;
+}
+
+.header{
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
+.content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10%;
+}
